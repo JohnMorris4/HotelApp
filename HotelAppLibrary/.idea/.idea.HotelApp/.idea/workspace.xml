@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="" />
+    <option name="COMMIT_PATTERN" value="{message}" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="ENABLE_SUITABLE_CONFIGURATION_CACHING" value="true" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="POSTPONE_SUITABLE_CONFIGURATIONS_SEARCH" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d834d4a3-e955-4507-a07f-c842c3a35b5a" name="Default Changelist" comment="Added new project">
+      <change afterPath="$PROJECT_DIR$/../HotelApp.Web/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Models/RoomModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Models/GuestModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../HotelApp.Web/appsettings.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/SqlData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../HotelApp.Web/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../HotelApp.Web/Properties/launchSettings.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../HotelApp.Web/appsettings.Development.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Models/BookingFullModel.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/8e02f1ac-e018-4b41-a591-6398daf13a12/console_1.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/8e02f1ac-e018-4b41-a591-6398daf13a12/console_2.sql" />
+        <option value="$PROJECT_DIR$/Models/Guest.cs" />
+        <option value="$PROJECT_DIR$/Models/GuestModel.cs" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/8e02f1ac-e018-4b41-a591-6398daf13a12/console_3.sql" />
+        <option value="$PROJECT_DIR$/Models/RoomModel.cs" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/8e02f1ac-e018-4b41-a591-6398daf13a12/console_4.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/8e02f1ac-e018-4b41-a591-6398daf13a12/console_5.sql" />
+        <option value="$PROJECT_DIR$/Models/BookingFullModel.cs" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/8e02f1ac-e018-4b41-a591-6398daf13a12/console_6.sql" />
+        <option value="$PROJECT_DIR$/Data/SqlData.cs" />
+        <option value="$PROJECT_DIR$/../HotelAppWeb/Startup.cs" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/../HotelApp.Web/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1faM8jUg038KctE1wL5zqBA5Wjr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="sqlserver" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected=".NET Launch Settings Profile.HotelAppWeb">
+    <configuration name="All in rest-api" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http">
+      <method v="2" />
+    </configuration>
+    <configuration name="HotelAppWeb" type="LaunchSettings" factoryName=".NET Launch Settings Profile" temporary="true">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/../HotelAppWeb/HotelAppWeb.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="HotelAppWeb" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue=".NET Launch Settings Profile.HotelAppWeb" />
+      <item itemvalue="HTTP Request.All in rest-api" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Launch Settings Profile.HotelAppWeb" />
+        <item itemvalue="HTTP Request.All in rest-api" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d834d4a3-e955-4507-a07f-c842c3a35b5a" name="Default Changelist" comment="" />
+      <created>1596451593824</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596451593824</updated>
+      <workItem from="1596451604893" duration="11550000" />
+      <workItem from="1596610687033" duration="4172000" />
+      <workItem from="1596698525649" duration="2333000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added new project">
+      <created>1596700875111</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596700875111</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Added new project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new project" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="332" y="39" key="#HotelAppWeb:_IIS_Express" timestamp="1596698870004">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="332" y="39" key="#HotelAppWeb:_IIS_Express/0.23.1440.877@0.23.1440.877" timestamp="1596698870004" />
+    <state x="320" y="127" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596699440763">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="320" y="127" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1596699440763" />
+    <state width="1398" height="231" key="GridCell.Tab.0.bottom" timestamp="1596700296033">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="231" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1596700296033" />
+    <state width="1398" height="231" key="GridCell.Tab.0.center" timestamp="1596700296032">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="231" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1596700296032" />
+    <state width="1398" height="231" key="GridCell.Tab.0.left" timestamp="1596700296026">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="231" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1596700296026" />
+    <state width="1398" height="231" key="GridCell.Tab.0.right" timestamp="1596700296032">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="231" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1596700296032" />
+    <state width="243" height="457" key="HiddenNamespacesPopup" timestamp="1596452779753">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="243" height="457" key="HiddenNamespacesPopup/0.23.1440.877@0.23.1440.877" timestamp="1596452779753" />
+    <state x="320" y="200" key="Rider.ProjectTemplateDialog.Size" timestamp="1596698725043">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="320" y="200" key="Rider.ProjectTemplateDialog.Size/0.23.1440.877@0.23.1440.877" timestamp="1596698725043" />
+    <state x="221" y="100" key="SettingsEditor" timestamp="1596700615713">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1596700615713" />
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1596700877375">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1596700877375" />
+    <state x="308" y="123" key="com.intellij.database.dbimport.ImportDialog" timestamp="1596454260482">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="308" y="123" key="com.intellij.database.dbimport.ImportDialog/0.23.1440.877@0.23.1440.877" timestamp="1596454260482" />
+    <state x="458" y="273" key="com.intellij.database.dbimport.ImportUtil.ChooseTargetDialog" timestamp="1596527751638">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="458" y="273" key="com.intellij.database.dbimport.ImportUtil.ChooseTargetDialog/0.23.1440.877@0.23.1440.877" timestamp="1596527751638" />
+    <state x="565" y="242" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1596454020207">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="565" y="242" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.23.1440.877@0.23.1440.877" timestamp="1596454020207" />
+    <state x="507" y="357" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1596699364982">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="507" y="357" key="git4idea.remote.GitConfigureRemotesDialog/0.23.1440.877@0.23.1440.877" timestamp="1596699364982" />
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1596610704894">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1596610704894" />
+  </component>
+</project>
