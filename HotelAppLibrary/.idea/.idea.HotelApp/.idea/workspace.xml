@@ -42,8 +42,76 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d834d4a3-e955-4507-a07f-c842c3a35b5a" name="Default Changelist" comment="Added new project">
-      <change afterPath="$PROJECT_DIR$/../HotelApp.Web/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlazorWebAssembly/App.razor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlazorWebAssembly/BlazorWebAssembly.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlazorWebAssembly/Pages/Counter.razor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlazorWebAssembly/Pages/FetchData.razor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlazorWebAssembly/Pages/Index.razor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlazorWebAssembly/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlazorWebAssembly/Properties/launchSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlazorWebAssembly/Shared/MainLayout.razor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlazorWebAssembly/Shared/NavMenu.razor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlazorWebAssembly/Shared/SurveyPrompt.razor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlazorWebAssembly/_Imports.razor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlazorWebAssembly/wwwroot/css/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlazorWebAssembly/wwwroot/css/bootstrap/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlazorWebAssembly/wwwroot/css/bootstrap/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlazorWebAssembly/wwwroot/css/open-iconic/FONT-LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlazorWebAssembly/wwwroot/css/open-iconic/ICON-LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlazorWebAssembly/wwwroot/css/open-iconic/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlazorWebAssembly/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlazorWebAssembly/wwwroot/css/open-iconic/font/fonts/open-iconic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlazorWebAssembly/wwwroot/css/open-iconic/font/fonts/open-iconic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlazorWebAssembly/wwwroot/css/open-iconic/font/fonts/open-iconic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlazorWebAssembly/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlazorWebAssembly/wwwroot/css/open-iconic/font/fonts/open-iconic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlazorWebAssembly/wwwroot/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlazorWebAssembly/wwwroot/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlazorWebAssembly/wwwroot/sample-data/weather.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HotelApp.Server/HotelApp.Server/App.razor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HotelApp.Server/HotelApp.Server/Data/WeatherForecast.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HotelApp.Server/HotelApp.Server/Data/WeatherForecastService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HotelApp.Server/HotelApp.Server/HotelApp.Server.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HotelApp.Server/HotelApp.Server/Pages/Counter.razor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HotelApp.Server/HotelApp.Server/Pages/Error.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HotelApp.Server/HotelApp.Server/Pages/FetchData.razor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HotelApp.Server/HotelApp.Server/Pages/Index.razor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HotelApp.Server/HotelApp.Server/Pages/_Host.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HotelApp.Server/HotelApp.Server/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HotelApp.Server/HotelApp.Server/Properties/launchSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HotelApp.Server/HotelApp.Server/Shared/MainLayout.razor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HotelApp.Server/HotelApp.Server/Shared/NavMenu.razor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HotelApp.Server/HotelApp.Server/Shared/SurveyPrompt.razor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HotelApp.Server/HotelApp.Server/Startup.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HotelApp.Server/HotelApp.Server/_Imports.razor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HotelApp.Server/HotelApp.Server/appsettings.Development.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HotelApp.Server/HotelApp.Server/appsettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HotelApp.Server/HotelApp.Server/wwwroot/css/bootstrap/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HotelApp.Server/HotelApp.Server/wwwroot/css/bootstrap/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HotelApp.Server/HotelApp.Server/wwwroot/css/open-iconic/FONT-LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HotelApp.Server/HotelApp.Server/wwwroot/css/open-iconic/ICON-LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HotelApp.Server/HotelApp.Server/wwwroot/css/open-iconic/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HotelApp.Server/HotelApp.Server/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HotelApp.Server/HotelApp.Server/wwwroot/css/open-iconic/font/fonts/open-iconic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HotelApp.Server/HotelApp.Server/wwwroot/css/open-iconic/font/fonts/open-iconic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HotelApp.Server/HotelApp.Server/wwwroot/css/open-iconic/font/fonts/open-iconic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HotelApp.Server/HotelApp.Server/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HotelApp.Server/HotelApp.Server/wwwroot/css/open-iconic/font/fonts/open-iconic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HotelApp.Server/HotelApp.Server/wwwroot/css/site.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HotelApp.Server/HotelApp.Server/wwwroot/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HotelApp.Web/Pages/BookRoom.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HotelApp.Web/Pages/BookRoom.cshtml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HotelApp.Web/Pages/RoomSearch.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HotelApp.Web/Pages/RoomSearch.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HotelApp.Web/HotelApp.Web.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../HotelApp.Web/HotelApp.Web.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HotelApp.Web/Pages/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/../HotelApp.Web/Pages/Shared/_Layout.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.HotelApp/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HotelApp/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.HotelApp/.idea/dataSources/8e02f1ac-e018-4b41-a591-6398daf13a12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HotelApp/.idea/dataSources/8e02f1ac-e018-4b41-a591-6398daf13a12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.HotelApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HotelApp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.HotelApp/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HotelApp/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/IDatabaseData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Data/IDatabaseData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/SqlData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Data/SqlData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HotelApp.sln" beforeDir="false" afterPath="$PROJECT_DIR$/HotelApp.sln" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,14 +122,27 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Models/RoomModel.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Models/GuestModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../HotelApp.Web/Pages/Privacy.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../HotelApp.Web/appsettings.json" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Data/SqlData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/76147192-4D41-49BC-9F56-3673E8B63A5E/27/ExecutorFactory.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../HotelApp.Web/Pages/RoomSearch.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../HotelApp.Web/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../HotelApp.Web/Pages/BookRoom.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../HotelApp.Web/Properties/launchSettings.json" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../HotelApp.Web/appsettings.Development.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/76147192-4D41-49BC-9F56-3673E8B63A5E/19/PageModel.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../HotelApp.Web/Pages/RoomSearch.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Models/BookingFullModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/76147192-4D41-49BC-9F56-3673E8B63A5E/17/PageContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Databases/ISqlDataAccess.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../HotelApp.Web/Pages/BookRoom.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/76147192-4D41-49BC-9F56-3673E8B63A5E/2D/PageActionInvoker.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/IDatabaseData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Models/RoomModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Models/GuestModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/SqlData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../HotelApp.Web/Pages/Privacy.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../HotelApp.Web/Pages/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -77,10 +158,20 @@
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/8e02f1ac-e018-4b41-a591-6398daf13a12/console_5.sql" />
         <option value="$PROJECT_DIR$/Models/BookingFullModel.cs" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/8e02f1ac-e018-4b41-a591-6398daf13a12/console_6.sql" />
-        <option value="$PROJECT_DIR$/Data/SqlData.cs" />
         <option value="$PROJECT_DIR$/../HotelAppWeb/Startup.cs" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/../HotelApp.Web/.gitignore" />
+        <option value="$PROJECT_DIR$/../HotelApp.Web/Pages/BookSearch.cshtml.cs" />
+        <option value="$PROJECT_DIR$/../HotelApp.Web/Pages/BookSearch.cshtml" />
+        <option value="$PROJECT_DIR$/../HotelApp.Web/Pages/Shared/_Layout.cshtml" />
+        <option value="$PROJECT_DIR$/../HotelApp.Web/appsettings.json" />
+        <option value="$PROJECT_DIR$/../HotelApp.Web/Pages/RoomSearch.cshtml.cs" />
+        <option value="$PROJECT_DIR$/../HotelApp.Web/Pages/BookRoom.cshtml.cs" />
+        <option value="$PROJECT_DIR$/../HotelApp.Web/Pages/RoomSearch.cshtml" />
+        <option value="$PROJECT_DIR$/../HotelApp.Web/Pages/BookRoom.cshtml" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/8e02f1ac-e018-4b41-a591-6398daf13a12/console_7.sql" />
+        <option value="/909085bf/8e02f1ac-e018-4b41-a591-6398daf13a12/database/HotelAppDb/schema/dbo/routine/spRoomTypes_GetById.sql" />
+        <option value="$PROJECT_DIR$/Data/SqlData.cs" />
       </list>
     </option>
   </component>
@@ -96,9 +187,12 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="sqlserver" />
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.3496708" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.29992685" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/.gitignore" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -107,12 +201,27 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected=".NET Launch Settings Profile.HotelAppWeb">
+  <component name="RunManager" selected=".NET Launch Settings Profile.BlazorWebAssembly: IIS Express">
     <configuration name="All in rest-api" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http">
       <method v="2" />
     </configuration>
+    <configuration name="BlazorWebAssembly: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile" temporary="true">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/../BlazorWebAssembly/BlazorWebAssembly.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETStandard,Version=v2.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="BlazorWebAssembly" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <configuration name="HotelAppWeb" type="LaunchSettings" factoryName=".NET Launch Settings Profile" temporary="true">
-      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/../HotelAppWeb/HotelAppWeb.csproj" />
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/../HotelApp.Web/HotelApp.Web.csproj" />
       <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.1" />
       <option name="LAUNCH_PROFILE_NAME" value="HotelAppWeb" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
@@ -126,12 +235,31 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="HotelApp.Server: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile" temporary="true">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/../HotelApp.Server/HotelApp.Server/HotelApp.Server.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="WebApplication" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue=".NET Launch Settings Profile.HotelAppWeb" />
+      <item itemvalue=".NET Launch Settings Profile.HotelApp.Server: IIS Express" />
       <item itemvalue="HTTP Request.All in rest-api" />
+      <item itemvalue=".NET Launch Settings Profile.BlazorWebAssembly: IIS Express" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue=".NET Launch Settings Profile.BlazorWebAssembly: IIS Express" />
+        <item itemvalue=".NET Launch Settings Profile.HotelApp.Server: IIS Express" />
         <item itemvalue=".NET Launch Settings Profile.HotelAppWeb" />
         <item itemvalue="HTTP Request.All in rest-api" />
       </list>
@@ -149,7 +277,10 @@
       <updated>1596451593824</updated>
       <workItem from="1596451604893" duration="11550000" />
       <workItem from="1596610687033" duration="4172000" />
-      <workItem from="1596698525649" duration="2333000" />
+      <workItem from="1596698525649" duration="5657000" />
+      <workItem from="1596783776320" duration="6650000" />
+      <workItem from="1596868682574" duration="1521000" />
+      <workItem from="1596873845711" duration="430000" />
     </task>
     <task id="LOCAL-00001" summary="Added new project">
       <created>1596700875111</created>
@@ -158,7 +289,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596700875111</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added new project">
+      <created>1596701313234</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596701313234</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,6 +327,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="Added new project" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="332" y="39" key="#BlazorWebAssembly:_IIS_Express" timestamp="1596874186873">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="332" y="39" key="#BlazorWebAssembly:_IIS_Express/0.23.1440.877@0.23.1440.877" timestamp="1596874186873" />
+    <state x="332" y="39" key="#HotelApp.Server:_IIS_Express" timestamp="1596702369579">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="332" y="39" key="#HotelApp.Server:_IIS_Express/0.23.1440.877@0.23.1440.877" timestamp="1596702369579" />
+    <state x="332" y="79" key="#HotelAppWeb" timestamp="1596704297825">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="332" y="79" key="#HotelAppWeb/0.23.1440.877@0.23.1440.877" timestamp="1596704297825" />
     <state x="332" y="39" key="#HotelAppWeb:_IIS_Express" timestamp="1596698870004">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -197,38 +347,110 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="320" y="127" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1596699440763" />
-    <state width="1398" height="231" key="GridCell.Tab.0.bottom" timestamp="1596700296033">
+    <state x="582" y="383" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.ChooseSilentCodeCleanupProfileDialog" timestamp="1596704200735">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="231" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1596700296033" />
-    <state width="1398" height="231" key="GridCell.Tab.0.center" timestamp="1596700296032">
+    <state x="582" y="383" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.ChooseSilentCodeCleanupProfileDialog/0.23.1440.877@0.23.1440.877" timestamp="1596704200735" />
+    <state width="1398" height="231" key="GridCell.Tab.0.bottom" timestamp="1596874198405">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="231" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1596700296032" />
-    <state width="1398" height="231" key="GridCell.Tab.0.left" timestamp="1596700296026">
+    <state width="1398" height="231" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1596874198405" />
+    <state width="1398" height="231" key="GridCell.Tab.0.center" timestamp="1596874198404">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="231" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1596700296026" />
-    <state width="1398" height="231" key="GridCell.Tab.0.right" timestamp="1596700296032">
+    <state width="1398" height="231" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1596874198404" />
+    <state width="1398" height="231" key="GridCell.Tab.0.left" timestamp="1596874198404">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="231" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1596700296032" />
+    <state width="1398" height="231" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1596874198404" />
+    <state width="1398" height="231" key="GridCell.Tab.0.right" timestamp="1596874198405">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="231" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1596874198405" />
+    <state width="1398" height="313" key="GridCell.Tab.1.bottom" timestamp="1596870228064">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="313" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1596870228064" />
+    <state width="1398" height="313" key="GridCell.Tab.1.center" timestamp="1596870228063">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="313" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1596870228063" />
+    <state width="1398" height="313" key="GridCell.Tab.1.left" timestamp="1596870228063">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="313" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1596870228063" />
+    <state width="1398" height="313" key="GridCell.Tab.1.right" timestamp="1596870228064">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="313" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1596870228064" />
+    <state width="1398" height="313" key="GridCell.Tab.2.bottom" timestamp="1596870228065">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="313" key="GridCell.Tab.2.bottom/0.23.1440.877@0.23.1440.877" timestamp="1596870228065" />
+    <state width="1398" height="313" key="GridCell.Tab.2.center" timestamp="1596870228065">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="313" key="GridCell.Tab.2.center/0.23.1440.877@0.23.1440.877" timestamp="1596870228065" />
+    <state width="1398" height="313" key="GridCell.Tab.2.left" timestamp="1596870228064">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="313" key="GridCell.Tab.2.left/0.23.1440.877@0.23.1440.877" timestamp="1596870228064" />
+    <state width="1398" height="313" key="GridCell.Tab.2.right" timestamp="1596870228065">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="313" key="GridCell.Tab.2.right/0.23.1440.877@0.23.1440.877" timestamp="1596870228065" />
+    <state width="1398" height="313" key="GridCell.Tab.3.bottom" timestamp="1596870228067">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="313" key="GridCell.Tab.3.bottom/0.23.1440.877@0.23.1440.877" timestamp="1596870228067" />
+    <state width="1398" height="313" key="GridCell.Tab.3.center" timestamp="1596870228066">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="313" key="GridCell.Tab.3.center/0.23.1440.877@0.23.1440.877" timestamp="1596870228066" />
+    <state width="1398" height="313" key="GridCell.Tab.3.left" timestamp="1596870228066">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="313" key="GridCell.Tab.3.left/0.23.1440.877@0.23.1440.877" timestamp="1596870228066" />
+    <state width="1398" height="313" key="GridCell.Tab.3.right" timestamp="1596870228067">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="313" key="GridCell.Tab.3.right/0.23.1440.877@0.23.1440.877" timestamp="1596870228067" />
+    <state width="1398" height="313" key="GridCell.Tab.4.bottom" timestamp="1596870228068">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="313" key="GridCell.Tab.4.bottom/0.23.1440.877@0.23.1440.877" timestamp="1596870228068" />
+    <state width="1398" height="313" key="GridCell.Tab.4.center" timestamp="1596870228068">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="313" key="GridCell.Tab.4.center/0.23.1440.877@0.23.1440.877" timestamp="1596870228068" />
+    <state width="1398" height="313" key="GridCell.Tab.4.left" timestamp="1596870228067">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="313" key="GridCell.Tab.4.left/0.23.1440.877@0.23.1440.877" timestamp="1596870228067" />
+    <state width="1398" height="313" key="GridCell.Tab.4.right" timestamp="1596870228068">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="313" key="GridCell.Tab.4.right/0.23.1440.877@0.23.1440.877" timestamp="1596870228068" />
     <state width="243" height="457" key="HiddenNamespacesPopup" timestamp="1596452779753">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="243" height="457" key="HiddenNamespacesPopup/0.23.1440.877@0.23.1440.877" timestamp="1596452779753" />
-    <state x="320" y="200" key="Rider.ProjectTemplateDialog.Size" timestamp="1596698725043">
+    <state x="320" y="200" key="Rider.ProjectTemplateDialog.Size" timestamp="1596874114341">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="200" key="Rider.ProjectTemplateDialog.Size/0.23.1440.877@0.23.1440.877" timestamp="1596698725043" />
+    <state x="320" y="200" key="Rider.ProjectTemplateDialog.Size/0.23.1440.877@0.23.1440.877" timestamp="1596874114341" />
     <state x="221" y="100" key="SettingsEditor" timestamp="1596700615713">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1596700615713" />
-    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1596700877375">
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1596701345366">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1596700877375" />
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1596701345366" />
+    <state width="720" height="438" key="XDebugger.FullValuePopup" timestamp="1596868904990">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="720" height="438" key="XDebugger.FullValuePopup/0.23.1440.877@0.23.1440.877" timestamp="1596868904990" />
     <state x="308" y="123" key="com.intellij.database.dbimport.ImportDialog" timestamp="1596454260482">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -237,10 +459,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="458" y="273" key="com.intellij.database.dbimport.ImportUtil.ChooseTargetDialog/0.23.1440.877@0.23.1440.877" timestamp="1596527751638" />
-    <state x="565" y="242" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1596454020207">
+    <state x="565" y="242" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1596785863410">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="565" y="242" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.23.1440.877@0.23.1440.877" timestamp="1596454020207" />
+    <state x="565" y="242" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.23.1440.877@0.23.1440.877" timestamp="1596785863410" />
     <state x="507" y="357" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1596699364982">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -249,5 +471,24 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1596610704894" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/../HotelApp.Web/Pages/BookRoom.cshtml.cs</url>
+          <line>45</line>
+          <properties documentPath="$PROJECT_DIR$/../HotelApp.Web/Pages/BookRoom.cshtml.cs" initialLine="28">
+            <startOffsets>
+              <option value="1103" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1135" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
