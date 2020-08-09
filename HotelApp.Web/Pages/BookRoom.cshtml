@@ -1,19 +1,23 @@
 @page
-@model $NAMESPACE$.$CLASS$
+@model HotelAppWeb.Pages.BookRoomModel
 
 @{
-    Layout = null;
+    ViewData["Title"] = "Book A Room";
 }
+<h1>Book A Room</h1>
 
-<!DOCTYPE html>
+<h2>@Model.RoomType.Title</h2>
 
-<html>
-<head>
-    <title></title>
-</head>
-<body>
-    <div>
-        $END$  
+<p>@Model.RoomType.Description</p>
+
+<form method="post">
+    <div class="form-group">
+        <label asp-for="@Model.FirstName"></label>
+        <input asp-for="@Model.FirstName">
     </div>
-</body>
-</html>
+    <div class="form-group">
+        <label asp-for="@Model.LastName"></label>
+        <input asp-for="@Model.LastName">
+    </div>
+    <button type="submit" class="btn btn-primary">Book</button>
+</form>
